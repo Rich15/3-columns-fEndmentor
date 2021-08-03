@@ -6,7 +6,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,10 +23,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
-
-### Screenshot
-
-![Solution Screenshot](3-columns-fEndmentor/3column-preview-card-component-main/Screenshot 2021-08-03 at 14-45-13 Frontend Mentor 3-column preview card component.png)
 
 ### Links
 
