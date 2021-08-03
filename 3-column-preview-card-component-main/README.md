@@ -7,6 +7,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,7 +30,9 @@ Users should be able to:
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
+### Screenshot
 
+![Solution Screenshot](3-column-preview-card-component-main/Screenshot 2021-08-03 at 14-45-13 Frontend Mentor 3-column preview card component.png "Solution Screenshot")
 ## My process
 
 Had fun making this challenge. I had some trouble with the columns' margins but I solved it using Flexbox, so I learned something new! :)
