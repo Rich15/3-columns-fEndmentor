@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution Screenshot](Screenshot 2021-08-03 at 14-45-13 Frontend Mentor 3-column preview card component.png)
+![Solution Screenshot](3-columns-fEndmentor/3column-preview-card-component-main/Screenshot 2021-08-03 at 14-45-13 Frontend Mentor 3-column preview card component.png)
 
 ### Links
 
